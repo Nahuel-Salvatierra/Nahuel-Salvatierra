@@ -41,7 +41,7 @@ I specialize in developing full-featured solutions from scratch — from databas
 
 ## 🧪 How I Work
 
-- **Solid architecture:** I use patterns like Clean Architecture, DDD, and Hexagonal Architecture for scalable, testable systems.
+- **Solid architecture:** I use patterns like Clean Architecture, DDD, and Hexagonal Architecture for scalable, testable systems. I tend to use design patterns and solid principles to avoid code coupling.
 - **Reliable testing:** I implement unit, integration, and end-to-end testing to ensure quality and stability.
 - **Automation-driven:** I streamline deployments and CI/CD pipelines with Docker and GitHub Actions.
 - **UI-focused:** I build accessible, pixel-perfect UIs based on detailed Figma designs using modern UI libraries.
